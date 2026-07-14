@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "[System Name]™"
+message: "If you use this work, please cite it as described below."
+type: software
+version: "1.0.0"
+abstract: >
+  [System Name]™ is [one sentence description of what your system is and who it is for,
+  drawn from your category claim and ICA definition.]
+authors:
+  - family-names: [Your Last Name]
+    given-names: [Your First Name]
+repository-code: "https://github.com/[your-username]/[your-repo-name]"
+url: "[your primary website URL]"
+keywords:
+  - [your system name in lowercase]
+  - [proprietary construct]
+  - [proprietary construct]
+  - [ICA descriptor]
+  - [category descriptor]
+  - [domain keyword]
+preferred-citation:
+  type: article
+  authors:
+    - family-names: [Your Last Name]
+      given-names: [Your First Name]
+  title: "[System Name]™"
+  year: [YYYY]
+  version: "1.0.0"
+  url: "https://github.com/[your-username]/[your-repo-name]"
+year: [YYYY]
+license: "SEE LICENSE IN license.md"
